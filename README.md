@@ -1,7 +1,7 @@
 ## Course repository for the ***Python for Spectroscopy Summer 2024*** Workshop 
 ### taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
-![m99](m99.png)
+![spect](SpectroscopyTellsUs.jpg)
 
 ## Welcome to Python for Spectroscopy Workshop! 
 ### [The Cosmic Perspective](cosmic_perspective)
@@ -24,7 +24,7 @@ We expect to run for 5 sessions ***every Thursday July 18th 2024***. Look for a 
 
 Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
-[Python for Astronomy Course Website](http://drunarayan.github.io/python4spectroscopy)  (this site)
+[Python for Spectroscopy Course Website](http://drunarayan.github.io/python4spectroscopy)  (this site)
 
 ## What is Jupyter?
 
@@ -45,10 +45,10 @@ The structure of this Workshop includes specific ***Projects*** below.  These Pr
 When you do so, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, ***JupyterLab*** (the IDE inside JupyterHub) will keep track of the modifications and you ***should never lose your edits***.  It is highly recommended that you ***do not change the names of the notebooks or files*** as they are being tracked and version controlled. You can always return to this page to access any specific project below where you can access your latest edits.  JupyterHub is widely used and state-of-the-art mechanism that universities use to manage Jupyter Notebooks and other course materials.  It is expected that future courses taught by me for BRIEF Programs will provide access to the same user account you are using now.
 
 ## Projects & Materials Access
+We will make extensive use of the materials from the [Webb Space Telescope - Spectroscopy 101 course](https://webbtelescope.org/contents/articles/spectroscopy-101--introduction) and the very useful and [free online Astronomy textbook from OpenStax](https://openstax.org/details/books/astronomy-2e)
 #### Please complete these steps including ``Project 0`` ahead of the first session
-* [Download Seminar Outline here as a PDF file](https://drunarayan.github.io/python4spectroscopy/p4s_session_outline.pdf)
-* [Access Online OpenStax Astronomy Textbook here](https://openstax.org/books/astronomy-2e/pages/1-introduction)
-* Complete ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!
+* [Access Online OpenStax Astronomy Textbook here and read the Section on Radiation & Spectra](https://openstax.org/books/astronomy-2e/pages/5-thinking-ahead)
+* Complete ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!  Your username should be created [once you have successfully registered for this course](https://docs.google.com/forms/d/e/1FAIpQLSf1maaYNhONbsg75rNPMYaQUyUP8SZHVcrIb6i7c0BvTOqbSQ/viewform)
 
 
 Project|Topic Description
