@@ -46,10 +46,27 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 ## Projects & Materials Access
 We will make extensive use of the materials from the [Webb Space Telescope - Spectroscopy 101 course](https://webbtelescope.org/contents/articles/spectroscopy-101--introduction) and the very useful and [free online Astronomy textbook from OpenStax](https://openstax.org/details/books/astronomy-2e)
-#### Please complete these steps including ``Project 0`` ahead of the first session
+#### Please complete these steps and start ``Project 1`` below ahead of the first session
 * [Access Online OpenStax Astronomy Textbook here and read the Section on Radiation & Spectra](https://openstax.org/books/astronomy-2e/pages/5-thinking-ahead)
-* Complete ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!  Your username should be created [once you have successfully registered for this course](https://docs.google.com/forms/d/e/1FAIpQLSf1maaYNhONbsg75rNPMYaQUyUP8SZHVcrIb6i7c0BvTOqbSQ/viewform)
+* Start ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!  Your username should be created [if you have successfully registered for this course](https://docs.google.com/forms/d/e/1FAIpQLSf1maaYNhONbsg75rNPMYaQUyUP8SZHVcrIb6i7c0BvTOqbSQ/viewform)
 
+Here are the registrations so far:
+
+
+firstname|lastname|email|username
+---|---|---|---
+Velne|Barud|vlbarud.eid@gmail.com|Velne.Barud.p4s
+Dinesh|Shetty|dvshetty98@gmail.com|Dinesh.Shetty.p4s
+Rinisha|Ramprakash|rinisha03@gmail.com|Rinisha.Ramprakash.p4s
+Julian|Yang|julian.yang0111@gmail.com|Julian.Yang.p4s
+Rajaabirami|R|rajaabirami01@gmail.com|Rajaabirami.R.p4s
+Puneet|Sethi|puneetsethi16042004@gmail.com|Puneet.Sethi.p4s
+Alexander|Huang|alexanderhuang499@gmail.com|Alexander.Huang.p4s
+Elaina|Jeansonne|enjeansonne@outlook.com|Elaina.Jeansonne.p4s
+Mike|Pereira|mikpere@icloud.com|Mike.Pereira.p4s
+Tyler|Tuttle|tntuttle11@gmail.com|Tyler.Tuttle.p4s
+Heinz|Vahlbruch|hello@heinzvahlbruch.com|Heinz.Vahlbruch.p4s
+Louis|Petersen|spaceagencyneptune@gmail.com|Louis.Petersen.p4s
 
 Project|Topic Description
 ---|---
