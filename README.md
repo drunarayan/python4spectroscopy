@@ -10,7 +10,8 @@
 
 Our workshop will cover a smattering of interesting or historically significant Spectroscopy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Spectroscopy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  
 
-Skills we will teach include:
+Skills we will teach might include:
+1. Mind Maps to organize our thoughts. We will use [LucidChart](https://www.lucidchart.com/pages/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_us_mixed_rlsa_brand_exact&km_CPC_CampaignId=20744746494&km_CPC_AdGroupID=163925669228&km_CPC_Keyword=lucidchart&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=679878152768&km_CPC_TargetID=aud-2227034459243:kwd-33511936169&km_CPC_Country=9033313&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gad_source=1&gclid=Cj0KCQjw-uK0BhC0ARIsANQtgGN0flS_Pc3KUR2rcDT09ZjBpaziv3CXT0_s9x3jVwOnU_m1EnBVz7AaAp7cEALw_wcB) for this purpose during this course.
 1. Jupyter Notebooks (the backbone of JupyterLab & Google colab)
 1. JupyterHub & JupyterLab (dev environment for Jupyter Notebooks adopted widely by universities)
 1. Markdown Syntax (dynamic text, images, video and code embedded publishing)
