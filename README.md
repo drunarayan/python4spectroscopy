@@ -53,8 +53,7 @@ We will make extensive use of the materials from the [Webb Space Telescope - Spe
 
 Project|Topic Description
 ---|---
-0|<a href=a href="https://drunarayan.github.io/python4spectroscopy/basics_jupyterlab_notebook" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics - PLEASE COMPLETE AHEAD OF SEMINAR START DATE</a>
-1|<a href="https://drunarayan.github.io/python4spectroscopy/intro_jupyter_python" target="_blank">Start your first project - Intro to Spectroscopy & Jupyter Notebooks</a>
+1|<a href="https://drunarayan.github.io/python4spectroscopy/intro_jupyter_python" target="_blank">Start your first project - Intro to Jupyter Notebooks & Spectroscopy</a>
 2|<a href="https://drunarayan.github.io/python4spectroscopy/keplerian_orbits" target="_blank">Light & Matter</a>
 3|<a href="https://drunarayan.github.io/python4spectroscopy/star_magnitudes" target="_blank">Absorption & Emission Spectra</a>
 4|<a href="https://drunarayan.github.io/python4spectroscopy/half_a_mil" target="_blank">Spectral Properties of Stars & Galaxies</a>
