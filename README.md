@@ -81,7 +81,7 @@ Project|Topic Description
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|Thu, Jul 18th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/dqv-dvez-exk)|[Google Meeting Recording](TBD)
+1|Thu, Jul 18th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/dqv-dvez-exk)|[Google Meeting Recording](https://classroom.google.com/c/NzAxMDY5MTYyMTkx)
 2|Thu, Jul 25th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/dqv-dvez-exk)|[Google Meeting Recording](TBD)
 3|Thu, Aug 1st, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/dqv-dvez-exk)|[Google Meeting Recording](TBD)
 4|Thu, Aug 8th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/dqv-dvez-exk)|[Google Meeting Recording](TBD)
