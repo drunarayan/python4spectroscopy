@@ -51,6 +51,7 @@ Mike|Pereira|mikpere@icloud.com|Mike.Pereira.p4s
 Tyler|Tuttle|tntuttle11@gmail.com|Tyler.Tuttle.p4s
 Heinz|Vahlbruch|hello@heinzvahlbruch.com|Heinz.Vahlbruch.p4s
 Louis|Petersen|spaceagencyneptune@gmail.com|Louis.Petersen.p4s
+krzysztof|zielinski|krzysztof.s.zielinski@gmail.com|krzysztof.zielinski.p4s
 
 ## Workshop organization & JupyterHub - your own virtual laptop in the sky!
 
