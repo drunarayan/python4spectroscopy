@@ -71,7 +71,7 @@ Project|Topic Description
 ---|---
 1|<a href="https://drunarayan.github.io/python4spectroscopy/intro_jupyter_python" target="_blank">Start your first project - Intro to Jupyter Notebooks & Spectroscopy</a>
 2|<a href="https://drunarayan.github.io/python4spectroscopy/light_matter/light_matter" target="_blank">Light & Matter & Spectral Types</a>
-4|<a href="https://drunarayan.github.io/python4spectroscopy/half_a_mil" target="_blank">Spectral Properties of Stars & Galaxies</a>
+4|<a href="https://drunarayan.github.io/python4spectroscopy/spectral_properties/spectral_properties" target="_blank">Spectral Properties of Stars & Galaxies</a>
 5|<a href="TBD" target="_blank">Analyse JWST & other Spectral Images</a>
 6|<a href="TBD" target="_blank">Optional Project - Build your own Raspberry PI Spectroscope!</a>
 
