@@ -85,7 +85,8 @@ Item|Date|Google Meet Link|Google Recording Link
 2|Thu, Jul 25th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/dqv-dvez-exk)|[Google Meeting Recording](https://drive.google.com/file/d/1ZbjWfYycg_ByuuIIUlGSPTuT17CoDMB0/view?usp=sharing)
 3|Thu, Aug 1st, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/dqv-dvez-exk)|[Google Meeting Recording](https://drive.google.com/file/d/1XK24f1bPc22bT07sYL6g_TwM8CC1cHnq/view?usp=sharing)
 4|Thu, Aug 8th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/dqv-dvez-exk)|[Google Meeting Recording](https://drive.google.com/file/d/18tPZESpyPQ4Fr3xabCvNrfzfNs1LNfpF/view?usp=sharing)
-5|Thu, Aug 15th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/dqv-dvez-exk)|[Google Meeting Recording](TBD)
+5|Thu, Aug 15th, 2024 8:00 - 9:00 PM Pacific Time|***CANCELED***
+6|Thu, Aug 22nd, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/dqv-dvez-exk)|[Google Meeting Recording](TBD)
 
 
  
