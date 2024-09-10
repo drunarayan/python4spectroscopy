@@ -1,8 +1,6 @@
 ## Course repository for the ***Python for Spectroscopy Summer 2024*** Workshop 
 ### taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
-## ***NO CLASS TODAY _ SEE BELOW AND YOUR EMAIL!!***
-
 ![spect](SpectroscopyTellsUs.jpg)
 
 ## Welcome to Python for Spectroscopy Workshop! 
